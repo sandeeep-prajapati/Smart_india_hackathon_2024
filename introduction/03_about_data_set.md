@@ -3,7 +3,7 @@
 
 Here is a suggested folder structure for an image classifier dataset for PyTorch DataLoader:
 
-
+```
 dataset/
   train/
     class1/
@@ -36,7 +36,7 @@ dataset/
       ...
     ...
 
-
+```
 In this structure:
 
 - dataset is the root folder for the dataset.
